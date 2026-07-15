@@ -20,8 +20,7 @@ h1 {
 }
 
 .buttons {
-    margin-left: 150px;
+    margin-left: 450px;
     gap: 100px;
     display: flex;
-    align-items: center;
 }
